@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm ELMASRAR Mohamed</h1>
 <h3 align="center">a software engineering student from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelmasrar&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelmasrar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelmasrar" alt="mohamedelmasrar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **moham.elmasrar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,9 +16,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/mohamedelmasrar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mohamedelmasrar" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelmasrar&show_icons=true&locale=en&layout=compact" alt="mohamedelmasrar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedelmasrar&show_icons=true&locale=en" alt="mohamedelmasrar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelmasrar&" alt="mohamedelmasrar" /></p>
