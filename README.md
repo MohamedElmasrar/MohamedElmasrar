@@ -54,11 +54,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedelmasrar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelmasrar&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelmasrar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelmasrar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedelmasrar&theme=radical" alt="Profile Summary" height="165"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -142,5 +144,5 @@ const currentFocus = {
   <h3>💖 Thanks for visiting my profile!</h3>
   <p>Feel free to reach out if you want to collaborate on something amazing!</p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%"/>
 </div>
