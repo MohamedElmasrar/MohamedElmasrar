@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,linux,windows,bash" alt="Environment" />
 </p>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedelmasrar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamedelmasrar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <!-- ## 📈 Contribution Graph
 <div align="center">
