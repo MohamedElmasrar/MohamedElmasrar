@@ -1,4 +1,4 @@
-# Hi there, I'm ELMASRAR MOHAMED 👋
+# Hi there, I'm ELMASRAR MOHAMED
 
 ## 🚀 About Me
 
@@ -46,10 +46,10 @@
   <a href="https://linkedin.com/in/mohamed-elmasrar-234263286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/bitmaster_" target="_blank">
+  <a href="https://codeforces.com/profile/med_elmasrar" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/bitmaster_" target="_blank">
+  <a href="https://leetcode.com/u/elmasrar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
   <!-- <a href="https://your-portfolio.com" target="_blank">
