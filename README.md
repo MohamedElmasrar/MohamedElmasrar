@@ -1,63 +1,102 @@
-# Hi there, I'm ELMASRAR MOHAMED
-
-## 🚀 About Me
-
-- 🌱 I'm currently learning **Software Engineering**
-- 📫 How to reach me: **moham.elmasrar@gmail.com**
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" alt="Languages" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
-</p>
-
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,spring" alt="Backend" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" alt="Databases" />
-</p>
-
-### Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel" alt="Tools" />
-</p>
-
-### Development Environment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash" alt="Environment" />
-</p>
-
-## 🌐 Connect with Me
-
 <div align="center">
+
+```
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+```
+
+<h3>ELMASRAR MOHAMED</h3>
+<p><b>Software Engineering Student · Full-Stack Developer · Competitive Programmer</b></p>
+
+<p>
   <a href="mailto:moham.elmasrar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-elmasrar-234263286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/mohamed-elmasrar-234263286">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/med_elmasrar" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/med_elmasrar">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/elmasrar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+  <a href="https://leetcode.com/u/elmasrar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <!-- <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a> -->
+</p>
+
 </div>
+
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%"/>
-</div>
+### 👨‍💻 About Me
+
+- 🎓 Actively building skills in **Software Engineering** — from algorithms to production systems
+- 🌐 Full-stack experience with **React, Next.js, Django, and Spring Boot**
+- ⚔️ Competitive programmer on **Codeforces** and **LeetCode**
+- 🐳 Comfortable with the full dev lifecycle: code → container → deploy
+- 📫 Reach me: [moham.elmasrar@gmail.com](mailto:moham.elmasrar@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django,spring,nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,linux,bash" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmasrar&hide_border=true&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmasrar&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elmasrar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elmasrar&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Write code that you'd be proud to maintain at 3am."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:445F9D&height=100&section=footer" width="100%"/>
+</p>
