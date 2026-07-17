@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
-```
-
 <h3>ELMASRAR MOHAMED</h3>
 <p><b>Software Engineering Student · Full-Stack Developer · Competitive Programmer</b></p>
 
@@ -80,9 +71,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmasrar&hide_border=true&theme=dark" alt="GitHub Streak" />
-</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmasrar&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
