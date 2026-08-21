@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3>ELMASRAR MOHAMED</h3>
-<p><b>Software Engineering Student · Full-Stack Developer · Competitive Programmer</b></p>
+<p><b>Software Engineer · Competitive Programmer</b></p>
 
 <p>
   <a href="mailto:moham.elmasrar@gmail.com">
@@ -27,7 +27,6 @@
 - 🎓 Actively building skills in **Software Engineering** — from algorithms to production systems
 - 🌐 Full-stack experience with **React, Next.js, Django, and Spring Boot**
 - ⚔️ Competitive programmer on **Codeforces** and **LeetCode**
-- 🐳 Comfortable with the full dev lifecycle: code → container → deploy
 - 📫 Reach me: [moham.elmasrar@gmail.com](mailto:moham.elmasrar@gmail.com)
 
 ---
@@ -50,7 +49,7 @@
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=django,spring,nodejs" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi,spring," />
     </td>
   </tr>
   <tr>
